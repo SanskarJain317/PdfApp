@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "259369178289",
+    "project_id": "pdf-viewer-51b7a",
+    "storage_bucket": "pdf-viewer-51b7a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:259369178289:android:5bd8703b85881f03277e90",
+        "android_client_info": {
+          "package_name": "com.example.pdf_viwer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "259369178289-l87ebkhlfjbjhphq2tkrbnldd4ftmed0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMVjI0xOq4n6ylwfsmMCK02yI11sF3X_k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "259369178289-l87ebkhlfjbjhphq2tkrbnldd4ftmed0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
