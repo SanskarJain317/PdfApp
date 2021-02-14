@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:pdf_viewer/provider/pdf_url_provider.dart';
-import 'package:pdf_viewer/widgets/thumd_nail.dart';
+import 'package:pdf_viewer/widgets/thumb_nail.dart';
 
 class PdfGrid extends StatelessWidget {
   @override
