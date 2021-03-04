@@ -14,8 +14,6 @@ class _FileGridViewState extends State<FileGridView> {
     super.initState();
   }
 
-  // var _isInit = true;
-
   @override
   @override
   Widget build(BuildContext context) {

@@ -16,11 +16,8 @@ class MyApp extends StatelessWidget {
         primarySwatch: Colors.blue,
         visualDensity: VisualDensity.adaptivePlatformDensity,
       ),
-      home:
-          /*ChangeNotifierProvider(
-        create: (BuildContext context) => PdfUrlProvider(),
-        child:*/
-          FileGridView(),
+       home: FileGridView(),
+     // home: PDFViewerCachedFromUrl(),
       routes: {
         PDFViewerCachedFromUrl.routeName: (context) => PDFViewerCachedFromUrl()
       },

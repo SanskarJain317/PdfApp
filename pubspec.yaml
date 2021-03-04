@@ -23,7 +23,9 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
+  draggable_scrollbar: ^0.0.4
   flutter_cached_pdfview: ^0.3.1
+  syncfusion_flutter_pdfviewer: ^18.4.46-beta
   http: ^0.12.1
   provider: ^4.2.0
 

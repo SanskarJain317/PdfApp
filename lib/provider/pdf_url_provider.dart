@@ -1,5 +1,3 @@
-//import 'package:http/http.dart' as http;
-
 class PdfUrlProvider {
   List _pdfname = ["Sample Pdf 1", "Sample Pdf 2", "Sample Pdf 3"];
   List _item = [
